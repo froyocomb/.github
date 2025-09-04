@@ -20,13 +20,4 @@ Pick your Android:
 [`Android Key Lime Pie/Kitkat`]: https://github.com/froyocomb/have-a-key-lime-pie
 [`Android Marshmallow`]: https://github.com/froyocomb/marshmallow-fluff
 
-Credits
------------------
-@Typical0 for bringing the idea to life, making HRH27, android-3.0_r1 and IFL10 (with addition of IRK36B and IRK40C for Nexus S and ITL28B for Galaxy Nexus).
-@main3782 for extensive work on many builds (including almost all Honeycomb, the entirety of Ice Cream Sandwich, Cupcake, AAQ65 for Key Lime Pie and so on).
-@Dobby233Liu for resolving a ton of build conflicts and creating Froyocomb Helper.
-
-@pivotman319-owo for their findings about ```base-for-3.x-gpl.xml```, which made us realize it is possible to reconstruct different builds in a way like that.
-@FrostCoreAlt for their work on Android Donut builds.
-
 
