@@ -15,7 +15,7 @@ Pick your Android:
 [`Android Cupcake`]:  https://github.com/froyocomb/cupcake-den
 [`Android Donut`]:  https://github.com/froyocomb/donut-bakery
 [`Android Kraken/Gingerbread`]:  https://github.com/froyocomb/kraking-the-bread
-[`Android Honeycomb`]: https://github.com/froyocomb/froyocomb/froyocomb
+[`Android Honeycomb`]: https://github.com/froyocomb/froyocomb
 [`Android Ice Cream Sandwich`]:  https://github.com/froyocomb/i-scream-sandwich
 [`Android Key Lime Pie/Kitkat`]: https://github.com/froyocomb/have-a-key-lime-pie
 [`Android Marshmallow`]: https://github.com/froyocomb/marshmallow-fluff
