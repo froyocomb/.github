@@ -1,18 +1,3 @@
----
-
-## Android 4.1 build IRL27
-Reconstructed on 20 October 2026.
-
-This is the first build tagged after the first Android Ice Cream Sandwich Factory ROM 2 build and is considered the first build of Android Jelly Bean.
-
-The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/IRL27.xml
-
-<sub>Posted by isaasoobarr on 2026-10-20</sub>
-
-![screenshot-f94c83f0800d2d7a](images/screenshot-f94c83f0800d2d7a.png)
-
----
-
 ## Android 4.2 build AAN39
 Reconstructed on 14 October 2026.
 
@@ -34,9 +19,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.2/AAN39.xml
 
-<sub>Posted by isaasoobarr on 2026-10-14</sub>
-
-![screenshot2-5981f262ca2159db](images/screenshot2-5981f262ca2159db.png)
+<img src="images/screenshot2-5981f262ca2159db.png" width="260" alt="screenshot2-5981f262ca2159db">
 
 ---
 
@@ -48,9 +31,7 @@ Since this is (in theory) the first build of Android 4.2, there are no major cha
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.2/AAN25.xml
 
-<sub>Posted by isaasoobarr on 2026-10-13</sub>
-
-![screenshot-54324402f4f57d50](images/screenshot-54324402f4f57d50.png)
+<img src="images/screenshot-54324402f4f57d50.png" width="260" alt="screenshot-54324402f4f57d50">
 
 ---
 
@@ -64,10 +45,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRO02D.xml
 
-<sub>Posted by isaasoobarr on 2026-10-07</sub>
-
-![screenshot-4177b13907ff2d07](images/screenshot-4177b13907ff2d07.png)
-![screenshot2-0cf7d4c8a1af1b90](images/screenshot2-0cf7d4c8a1af1b90.png)
+<img src="images/screenshot-4177b13907ff2d07.png" width="260" alt="screenshot-4177b13907ff2d07"> <img src="images/screenshot2-0cf7d4c8a1af1b90.png" width="260" alt="screenshot2-0cf7d4c8a1af1b90">
 
 ---
 
@@ -82,10 +60,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN84D.xml
 
-<sub>Posted by isaasoobarr on 2026-10-07</sub>
-
-![screenshot-590edb3a7d7ec6bf](images/screenshot-590edb3a7d7ec6bf.png)
-![screenshot2-e9bdadafbdce16f7](images/screenshot2-e9bdadafbdce16f7.png)
+<img src="images/screenshot-590edb3a7d7ec6bf.png" width="260" alt="screenshot-590edb3a7d7ec6bf"> <img src="images/screenshot2-e9bdadafbdce16f7.png" width="260" alt="screenshot2-e9bdadafbdce16f7">
 
 ---
 
@@ -105,10 +80,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN75E.xml
 
-<sub>Posted by isaasoobarr on 2026-10-07</sub>
-
-![screenshot-f36588b84aef4c03](images/screenshot-f36588b84aef4c03.png)
-![screenshot2-e3ede78b4b0a767f](images/screenshot2-e3ede78b4b0a767f.png)
+<img src="images/screenshot-f36588b84aef4c03.png" width="260" alt="screenshot-f36588b84aef4c03"> <img src="images/screenshot2-e3ede78b4b0a767f.png" width="260" alt="screenshot2-e3ede78b4b0a767f">
 
 ---
 
@@ -134,10 +106,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN64.xml
 
-<sub>Posted by isaasoobarr on 2026-10-06</sub>
-
-![screenshot-51f085b7a82307d7](images/screenshot-51f085b7a82307d7.png)
-![screenshot2-a81ef2b0db4fd53f](images/screenshot2-a81ef2b0db4fd53f.png)
+<img src="images/screenshot-51f085b7a82307d7.png" width="260" alt="screenshot-51f085b7a82307d7"> <img src="images/screenshot2-a81ef2b0db4fd53f.png" width="260" alt="screenshot2-a81ef2b0db4fd53f">
 
 ---
 
@@ -154,10 +123,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN51C.xml
 
-<sub>Posted by isaasoobarr on 2026-10-06</sub>
-
-![screenshot-e16e5a2a0297c410](images/screenshot-e16e5a2a0297c410.png)
-![screenshot2-116c511f6d955f46](images/screenshot2-116c511f6d955f46.png)
+<img src="images/screenshot-e16e5a2a0297c410.png" width="260" alt="screenshot-e16e5a2a0297c410"> <img src="images/screenshot2-116c511f6d955f46.png" width="260" alt="screenshot2-116c511f6d955f46">
 
 ---
 
@@ -179,10 +145,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN00-JRN47.xml
 
-<sub>Posted by isaasoobarr on 2026-10-06</sub>
-
-![screenshot-c4585b30cdd62dc9](images/screenshot-c4585b30cdd62dc9.png)
-![screenshot2-be266c6b4a1c0098](images/screenshot2-be266c6b4a1c0098.png)
+<img src="images/screenshot-c4585b30cdd62dc9.png" width="260" alt="screenshot-c4585b30cdd62dc9"> <img src="images/screenshot2-be266c6b4a1c0098.png" width="260" alt="screenshot2-be266c6b4a1c0098">
 
 ---
 
@@ -204,10 +167,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN44C.xml
 
-<sub>Posted by isaasoobarr on 2026-10-06</sub>
-
-![screenshot-ad0f768afa3acc0a](images/screenshot-ad0f768afa3acc0a.png)
-![screenshot2-8499198093fea792](images/screenshot2-8499198093fea792.png)
+<img src="images/screenshot-ad0f768afa3acc0a.png" width="260" alt="screenshot-ad0f768afa3acc0a"> <img src="images/screenshot2-8499198093fea792.png" width="260" alt="screenshot2-8499198093fea792">
 
 ---
 
@@ -226,10 +186,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN38B.xml
 
-<sub>Posted by isaasoobarr on 2026-10-05</sub>
-
-![image-b886dec89c5ba068](images/image-b886dec89c5ba068.png)
-![screenshot-12fe8e22dade468d](images/screenshot-12fe8e22dade468d.png)
+<img src="images/image-b886dec89c5ba068.png" width="260" alt="image-b886dec89c5ba068"> <img src="images/screenshot-12fe8e22dade468d.png" width="260" alt="screenshot-12fe8e22dade468d">
 
 ---
 
@@ -247,10 +204,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN30C.xml
 
-<sub>Posted by isaasoobarr on 2026-10-03</sub>
-
-![image-a8b666724481c401](images/image-a8b666724481c401.png)
-![screenshot-2d0b91edc4388cda](images/screenshot-2d0b91edc4388cda.png)
+<img src="images/image-a8b666724481c401.png" width="260" alt="image-a8b666724481c401"> <img src="images/screenshot-2d0b91edc4388cda.png" width="260" alt="screenshot-2d0b91edc4388cda">
 
 ---
 
@@ -264,10 +218,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN23B.xml
 
-<sub>Posted by isaasoobarr on 2026-10-02</sub>
-
-![image-acb1057ed25acd2d](images/image-acb1057ed25acd2d.png)
-![screenshot-9d97acdc16fbcbb0](images/screenshot-9d97acdc16fbcbb0.png)
+<img src="images/image-acb1057ed25acd2d.png" width="260" alt="image-acb1057ed25acd2d"> <img src="images/screenshot-9d97acdc16fbcbb0.png" width="260" alt="screenshot-9d97acdc16fbcbb0">
 
 ---
 
@@ -282,9 +233,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN16C.xml
 
-<sub>Posted by isaasoobarr on 2026-09-30</sub>
-
-![screenshot-9fa644a25f059f11](images/screenshot-9fa644a25f059f11.png)
+<img src="images/screenshot-9fa644a25f059f11.png" width="260" alt="screenshot-9fa644a25f059f11">
 
 ---
 
@@ -300,10 +249,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRN02D.xml
 
-<sub>Posted by isaasoobarr on 2026-09-30</sub>
-
-![image-5ce96ec09cdbbab9](images/image-5ce96ec09cdbbab9.png)
-![screenshot-5a80f912226e2220](images/screenshot-5a80f912226e2220.png)
+<img src="images/image-5ce96ec09cdbbab9.png" width="260" alt="image-5ce96ec09cdbbab9"> <img src="images/screenshot-5a80f912226e2220.png" width="260" alt="screenshot-5a80f912226e2220">
 
 ---
 
@@ -316,10 +262,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRM81C.xml
 
-<sub>Posted by isaasoobarr on 2026-09-29</sub>
-
-![image-1877b4c6ffdb95af](images/image-1877b4c6ffdb95af.png)
-![screenshot-b3e1f1af578929f8](images/screenshot-b3e1f1af578929f8.png)
+<img src="images/image-1877b4c6ffdb95af.png" width="260" alt="image-1877b4c6ffdb95af"> <img src="images/screenshot-b3e1f1af578929f8.png" width="260" alt="screenshot-b3e1f1af578929f8">
 
 ---
 
@@ -338,10 +281,7 @@ The manifest is available for compile here - https://github.com/froyocomb/androi
 
 Enjoy!
 
-<sub>Posted by mainnn on 2026-09-24</sub>
-
-![22C35C72-ECD2-4F63-A255-B711C0E80D5E-49739e84c869fb0e](images/22C35C72-ECD2-4F63-A255-B711C0E80D5E-49739e84c869fb0e.png)
-![14F8C7CB-7C73-4B2F-9AE9-B1AA290173F1-e481d20803903901](images/14F8C7CB-7C73-4B2F-9AE9-B1AA290173F1-e481d20803903901.png)
+<img src="images/22C35C72-ECD2-4F63-A255-B711C0E80D5E-49739e84c869fb0e.png" width="260" alt="22C35C72-ECD2-4F63-A255-B711C0E80D5E-49739e84c869fb0e"> <img src="images/14F8C7CB-7C73-4B2F-9AE9-B1AA290173F1-e481d20803903901.png" width="260" alt="14F8C7CB-7C73-4B2F-9AE9-B1AA290173F1-e481d20803903901">
 
 ---
 
@@ -356,10 +296,7 @@ Note: Wi-Fi does not work on the Galaxy Nexus for this build.
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRM74.xml
 
-<sub>Posted by isaasoobarr on 2026-09-24</sub>
-
-![image-486927e6cb1fd257](images/image-486927e6cb1fd257.png)
-![screenshot-6e987f186d4b7641](images/screenshot-6e987f186d4b7641.png)
+<img src="images/image-486927e6cb1fd257.png" width="260" alt="image-486927e6cb1fd257"> <img src="images/screenshot-6e987f186d4b7641.png" width="260" alt="screenshot-6e987f186d4b7641">
 
 ---
 
@@ -375,10 +312,7 @@ Note: Wi-Fi does not work on the Galaxy Nexus for this build.
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRM65C.xml
 
-<sub>Posted by isaasoobarr on 2026-09-23</sub>
-
-![image-16fc208f60318f8c](images/image-16fc208f60318f8c.png)
-![screenshot-36931b02b3c71f8d](images/screenshot-36931b02b3c71f8d.png)
+<img src="images/image-16fc208f60318f8c.png" width="260" alt="image-16fc208f60318f8c"> <img src="images/screenshot-36931b02b3c71f8d.png" width="260" alt="screenshot-36931b02b3c71f8d">
 
 ---
 
@@ -392,10 +326,7 @@ Note: Wi-Fi does not work on the Galaxy Nexus for this build.
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRM54.xml
 
-<sub>Posted by isaasoobarr on 2026-09-22</sub>
-
-![image-cc10c4f756876654](images/image-cc10c4f756876654.png)
-![screenshot-be55ab63064a660e](images/screenshot-be55ab63064a660e.png)
+<img src="images/image-cc10c4f756876654.png" width="260" alt="image-cc10c4f756876654"> <img src="images/screenshot-be55ab63064a660e.png" width="260" alt="screenshot-be55ab63064a660e">
 
 ---
 
@@ -410,10 +341,7 @@ Note: Wi-Fi does not work on the Galaxy Nexus for this build.
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRM47.xml
 
-<sub>Posted by isaasoobarr on 2026-09-22</sub>
-
-![image-565297975df6787f](images/image-565297975df6787f.png)
-![screenshot-73dd1dc6ea075c45](images/screenshot-73dd1dc6ea075c45.png)
+<img src="images/image-565297975df6787f.png" width="260" alt="image-565297975df6787f"> <img src="images/screenshot-73dd1dc6ea075c45.png" width="260" alt="screenshot-73dd1dc6ea075c45">
 
 ---
 
@@ -425,10 +353,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRM40.xml
 
-<sub>Posted by isaasoobarr on 2026-09-21</sub>
-
-![image-da37f161913fe3c9](images/image-da37f161913fe3c9.png)
-![screenshot-340d5bb958e368c3](images/screenshot-340d5bb958e368c3.png)
+<img src="images/image-da37f161913fe3c9.png" width="260" alt="image-da37f161913fe3c9"> <img src="images/screenshot-340d5bb958e368c3.png" width="260" alt="screenshot-340d5bb958e368c3">
 
 ---
 
@@ -445,10 +370,7 @@ The manifest is available for compile here - https://github.com/froyocomb/androi
 
 Enjoy!
 
-<sub>Posted by mainnn on 2026-09-20</sub>
-
-![image-9cc1a2f785465671](images/image-9cc1a2f785465671.png)
-![image-2b72bd5341e38bf6](images/image-2b72bd5341e38bf6.png)
+<img src="images/image-9cc1a2f785465671.png" width="260" alt="image-9cc1a2f785465671"> <img src="images/image-2b72bd5341e38bf6.png" width="260" alt="image-2b72bd5341e38bf6">
 
 ---
 
@@ -460,10 +382,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRM33.xml
 
-<sub>Posted by isaasoobarr on 2026-09-20</sub>
-
-![image-c671b93cb8b56b61](images/image-c671b93cb8b56b61.png)
-![screenshot-c423dad2ba2e8f89](images/screenshot-c423dad2ba2e8f89.png)
+<img src="images/image-c671b93cb8b56b61.png" width="260" alt="image-c671b93cb8b56b61"> <img src="images/screenshot-c423dad2ba2e8f89.png" width="260" alt="screenshot-c423dad2ba2e8f89">
 
 ---
 
@@ -478,10 +397,7 @@ Notable features:
 See here - see by yourself lol  
 Available here - https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/JRM24.xml
 
-<sub>Posted by isaasoobarr on 2026-09-20</sub>
-
-![image-217eb5597fc56251](images/image-217eb5597fc56251.png)
-![IMG_4328-6f7d6c7b2b5873e7](images/IMG_4328-6f7d6c7b2b5873e7.png)
+<img src="images/image-217eb5597fc56251.png" width="260" alt="image-217eb5597fc56251"> <img src="images/IMG_4328-6f7d6c7b2b5873e7.png" width="260" alt="IMG_4328-6f7d6c7b2b5873e7">
 
 ---
 
@@ -502,10 +418,7 @@ The manifest is available for compile here - https://github.com/froyocomb/androi
 
 Enjoy!
 
-<sub>Posted by mainnn on 2026-09-19</sub>
-
-![6F63830C-B54A-4990-9496-43DC51232941-0778efdd90cbfbe8](images/6F63830C-B54A-4990-9496-43DC51232941-0778efdd90cbfbe8.png)
-![BCC7A143-C4A0-4681-AB3E-9BFCB390DA1E-57330623e0cea261](images/BCC7A143-C4A0-4681-AB3E-9BFCB390DA1E-57330623e0cea261.png)
+<img src="images/6F63830C-B54A-4990-9496-43DC51232941-0778efdd90cbfbe8.png" width="260" alt="6F63830C-B54A-4990-9496-43DC51232941-0778efdd90cbfbe8"> <img src="images/BCC7A143-C4A0-4681-AB3E-9BFCB390DA1E-57330623e0cea261.png" width="260" alt="BCC7A143-C4A0-4681-AB3E-9BFCB390DA1E-57330623e0cea261">
 
 ---
 
@@ -520,10 +433,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_4.1_build_IRM18  
 Available here - https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/IRM18.xml
 
-<sub>Posted by isaasoobarr on 2026-09-17</sub>
-
-![IMG_4235-8da4cb6e6dd63df0](images/IMG_4235-8da4cb6e6dd63df0.png)
-![IMG_4236-30bff9df32ac87dc](images/IMG_4236-30bff9df32ac87dc.png)
+<img src="images/IMG_4235-8da4cb6e6dd63df0.png" width="260" alt="IMG_4235-8da4cb6e6dd63df0"> <img src="images/IMG_4236-30bff9df32ac87dc.png" width="260" alt="IMG_4236-30bff9df32ac87dc">
 
 ---
 
@@ -537,9 +447,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_3.0_build_HRG56  
 Available here - https://github.com/froyocomb/android/tree/froyocomb/beta/HRG56.xml
 
-<sub>Posted by mainnn on 2026-09-17</sub>
-
-![1024px-Android-3.0-HRG56-Home-c4f72d2b9c9903f8](images/1024px-Android-3.0-HRG56-Home-c4f72d2b9c9903f8.png)
+<img src="images/1024px-Android-3.0-HRG56-Home-c4f72d2b9c9903f8.png" width="260" alt="1024px-Android-3.0-HRG56-Home-c4f72d2b9c9903f8">
 
 ---
 
@@ -554,10 +462,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_4.1_build_IRM12  
 Available here - https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/IRM12.xml
 
-<sub>Posted by isaasoobarr on 2026-09-16</sub>
-
-![Android-IceCreamSandwichMR2-IRM12-Homescre-e569652523767349](images/Android-IceCreamSandwichMR2-IRM12-Homescre-e569652523767349.png)
-![Android-IceCreamSandwichMR2-IRM12-Homescre-2aaa5440d88f27ef](images/Android-IceCreamSandwichMR2-IRM12-Homescre-2aaa5440d88f27ef.png)
+<img src="images/Android-IceCreamSandwichMR2-IRM12-Homescre-e569652523767349.png" width="260" alt="Android-IceCreamSandwichMR2-IRM12-Homescre-e569652523767349"> <img src="images/Android-IceCreamSandwichMR2-IRM12-Homescre-2aaa5440d88f27ef.png" width="260" alt="Android-IceCreamSandwichMR2-IRM12-Homescre-2aaa5440d88f27ef">
 
 ---
 
@@ -567,10 +472,7 @@ Reconstructed on 14 September 2026.
 See here - https://betawiki.net/wiki/Android_4.1_build_IRM05  
 Available here - https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/IRM05.xml
 
-<sub>Posted by isaasoobarr on 2026-09-15</sub>
-
-![Android-IceCreamSandwichMR2-IRM05-Homescre-3c0bee3fcf1ecf67](images/Android-IceCreamSandwichMR2-IRM05-Homescre-3c0bee3fcf1ecf67.png)
-![Android-IceCreamSandwichMR2-IRM05-Homescre-5612370f651e3b6e](images/Android-IceCreamSandwichMR2-IRM05-Homescre-5612370f651e3b6e.png)
+<img src="images/Android-IceCreamSandwichMR2-IRM05-Homescre-3c0bee3fcf1ecf67.png" width="260" alt="Android-IceCreamSandwichMR2-IRM05-Homescre-3c0bee3fcf1ecf67"> <img src="images/Android-IceCreamSandwichMR2-IRM05-Homescre-5612370f651e3b6e.png" width="260" alt="Android-IceCreamSandwichMR2-IRM05-Homescre-5612370f651e3b6e">
 
 ---
 
@@ -583,9 +485,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_4.1_build_IRL82  
 Available here - https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean
 
-<sub>Posted by isaasoobarr on 2026-09-14</sub>
-
-![IMG_4191-c905b628e946cbcf](images/IMG_4191-c905b628e946cbcf.png)
+<img src="images/IMG_4191-c905b628e946cbcf.png" width="260" alt="IMG_4191-c905b628e946cbcf">
 
 ---
 
@@ -603,9 +503,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_3.0_build_HRG50B  
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-09-11</sub>
-
-![Android-Froyo-HRG50B-CustomizationDrawer-07c2833e9464fe14](images/Android-Froyo-HRG50B-CustomizationDrawer-07c2833e9464fe14.png)
+<img src="images/Android-Froyo-HRG50B-CustomizationDrawer-07c2833e9464fe14.png" width="260" alt="Android-Froyo-HRG50B-CustomizationDrawer-07c2833e9464fe14">
 
 ---
 
@@ -623,9 +521,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_3.0_build_HRG44B  
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-09-03</sub>
-
-![Android-3.0-HRG44B-SettingsPanel-9f3772b55d53a9b7](images/Android-3.0-HRG44B-SettingsPanel-9f3772b55d53a9b7.png)
+<img src="images/Android-3.0-HRG44B-SettingsPanel-9f3772b55d53a9b7.png" width="260" alt="Android-3.0-HRG44B-SettingsPanel-9f3772b55d53a9b7">
 
 ---
 
@@ -641,9 +537,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_3.0_build_HRG37  
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-08-29</sub>
-
-![Android-3.0-HRG37-Notifications-ddfa96172f5109f8](images/Android-3.0-HRG37-Notifications-ddfa96172f5109f8.png)
+<img src="images/Android-3.0-HRG37-Notifications-ddfa96172f5109f8.png" width="260" alt="Android-3.0-HRG37-Notifications-ddfa96172f5109f8">
 
 ---
 
@@ -659,9 +553,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_3.0_build_HRG34  
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-08-25</sub>
-
-![Android-3.0-HRG34-NotificationsSystemBar-793e9c23e8f20cc9](images/Android-3.0-HRG34-NotificationsSystemBar-793e9c23e8f20cc9.png)
+<img src="images/Android-3.0-HRG34-NotificationsSystemBar-793e9c23e8f20cc9.png" width="260" alt="Android-3.0-HRG34-NotificationsSystemBar-793e9c23e8f20cc9">
 
 ---
 
@@ -680,9 +572,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_3.0_build_HRG28  
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-08-22</sub>
-
-![Android-3.0-HRG28-SystemBarPanels-2ae2a5d252503b40](images/Android-3.0-HRG28-SystemBarPanels-2ae2a5d252503b40.png)
+<img src="images/Android-3.0-HRG28-SystemBarPanels-2ae2a5d252503b40.png" width="260" alt="Android-3.0-HRG28-SystemBarPanels-2ae2a5d252503b40">
 
 ---
 
@@ -699,9 +589,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_3.0_build_HRG23  
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-08-21</sub>
-
-![Android-3.0-HRG23-Home-f1d96d434ea665ec](images/Android-3.0-HRG23-Home-f1d96d434ea665ec.png)
+<img src="images/Android-3.0-HRG23-Home-f1d96d434ea665ec.png" width="260" alt="Android-3.0-HRG23-Home-f1d96d434ea665ec">
 
 ---
 
@@ -716,9 +604,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_3.0_build_HRG19  
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-08-18</sub>
-
-![Android-3.0-HRG19-Home-a03b598b0aeaa8d6](images/Android-3.0-HRG19-Home-a03b598b0aeaa8d6.png)
+<img src="images/Android-3.0-HRG19-Home-a03b598b0aeaa8d6.png" width="260" alt="Android-3.0-HRG19-Home-a03b598b0aeaa8d6">
 
 ---
 
@@ -736,10 +622,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_3.0_build_HRG14  
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-08-14</sub>
-
-![Android-3.0-HRG14-Home-067a7a098cb7440a](images/Android-3.0-HRG14-Home-067a7a098cb7440a.png)
-![Android-3.0-HRG14-About-d326493fdc98f921](images/Android-3.0-HRG14-About-d326493fdc98f921.png)
+<img src="images/Android-3.0-HRG14-Home-067a7a098cb7440a.png" width="260" alt="Android-3.0-HRG14-Home-067a7a098cb7440a"> <img src="images/Android-3.0-HRG14-About-d326493fdc98f921.png" width="260" alt="Android-3.0-HRG14-About-d326493fdc98f921">
 
 ---
 
@@ -756,9 +639,7 @@ Notable features:
 See here - https://betawiki.net/wiki/Android_3.0_build_HRG08  
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-08-03</sub>
-
-![Android-3.0-HRG08-Home-97937881de29d475](images/Android-3.0-HRG08-Home-97937881de29d475.png)
+<img src="images/Android-3.0-HRG08-Home-97937881de29d475.png" width="260" alt="Android-3.0-HRG08-Home-97937881de29d475">
 
 ---
 
@@ -767,9 +648,7 @@ Available here - https://github.com/froyocomb/android/tree/froyocomb
 It's just HRF91.  
 https://betawiki.net/wiki/Android_3.0_build_HRF90
 
-<sub>Posted by mainnn on 2026-08-02</sub>
-
-![Android-3.0-HRF90-Home-88ed6ada3951d7ef](images/Android-3.0-HRF90-Home-88ed6ada3951d7ef.png)
+<img src="images/Android-3.0-HRF90-Home-88ed6ada3951d7ef.png" width="260" alt="Android-3.0-HRF90-Home-88ed6ada3951d7ef">
 
 ---
 
@@ -786,9 +665,7 @@ Thanks y'all again again. 08-08-2025 to 07-22-2026.
 See here - https://betawiki.net/wiki/Android_3.0_build_HRF86  
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-07-22</sub>
-
-![Android-3.0-HRF86-Home-mdpi-889005df4a83acd1](images/Android-3.0-HRF86-Home-mdpi-889005df4a83acd1.png)
+<img src="images/Android-3.0-HRF86-Home-mdpi-889005df4a83acd1.png" width="260" alt="Android-3.0-HRF86-Home-mdpi-889005df4a83acd1">
 
 ---
 
@@ -802,9 +679,7 @@ See here - https://betawiki.net/wiki/Android_3.0_build_HRF78
 
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-07-12</sub>
-
-![Android-3.0-HRF78-Browser-9acec79b6c8d1cbd](images/Android-3.0-HRF78-Browser-9acec79b6c8d1cbd.png)
+<img src="images/Android-3.0-HRF78-Browser-9acec79b6c8d1cbd.png" width="260" alt="Android-3.0-HRF78-Browser-9acec79b6c8d1cbd">
 
 ---
 
@@ -820,10 +695,7 @@ See here - https://betawiki.net/wiki/Android_3.0_build_HRF72
 
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-07-11</sub>
-
-![Android-3.0-HRF72-Home-mdpi-6a238b7d8a8bb8f1](images/Android-3.0-HRF72-Home-mdpi-6a238b7d8a8bb8f1.png)
-![Android-3.0-HRF72-About-2c1134b9dae922c5](images/Android-3.0-HRF72-About-2c1134b9dae922c5.png)
+<img src="images/Android-3.0-HRF72-Home-mdpi-6a238b7d8a8bb8f1.png" width="260" alt="Android-3.0-HRF72-Home-mdpi-6a238b7d8a8bb8f1"> <img src="images/Android-3.0-HRF72-About-2c1134b9dae922c5.png" width="260" alt="Android-3.0-HRF72-About-2c1134b9dae922c5">
 
 ---
 
@@ -840,10 +712,7 @@ See here - https://betawiki.net/wiki/Android_3.0_4_June_2010_build
 
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-07-09</sub>
-
-![1280px-Android-3.0-HRF65-HomeXoom-49b29bd4e943b64b](images/1280px-Android-3.0-HRF65-HomeXoom-49b29bd4e943b64b.png)
-![1280px-Android-3.0-HRF65-AboutXoom-536de384ce722358](images/1280px-Android-3.0-HRF65-AboutXoom-536de384ce722358.png)
+<img src="images/1280px-Android-3.0-HRF65-HomeXoom-49b29bd4e943b64b.png" width="260" alt="1280px-Android-3.0-HRF65-HomeXoom-49b29bd4e943b64b"> <img src="images/1280px-Android-3.0-HRF65-AboutXoom-536de384ce722358.png" width="260" alt="1280px-Android-3.0-HRF65-AboutXoom-536de384ce722358">
 
 ---
 
@@ -859,10 +728,7 @@ See here - https://betawiki.net/wiki/Android_3.0_26_May_2010_build
 
 Available here -  https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-07-04</sub>
-
-![Android-3.0-HRF56-Home-6773df0012641d80](images/Android-3.0-HRF56-Home-6773df0012641d80.png)
-![Android-3.0-HRF56-About-ff0e981c808f6637](images/Android-3.0-HRF56-About-ff0e981c808f6637.png)
+<img src="images/Android-3.0-HRF56-Home-6773df0012641d80.png" width="260" alt="Android-3.0-HRF56-Home-6773df0012641d80"> <img src="images/Android-3.0-HRF56-About-ff0e981c808f6637.png" width="260" alt="Android-3.0-HRF56-About-ff0e981c808f6637">
 
 ---
 
@@ -880,10 +746,7 @@ See here - https://betawiki.net/wiki/Android_3.0_14_May_2010_build
 
 Available here -  https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-06-21</sub>
-
-![Android-3.0-HRF44-Home-fd93054e8ce163e1](images/Android-3.0-HRF44-Home-fd93054e8ce163e1.png)
-![Android-3.0-HRF44-ContactsGoop-c83553b51cc98d82](images/Android-3.0-HRF44-ContactsGoop-c83553b51cc98d82.png)
+<img src="images/Android-3.0-HRF44-Home-fd93054e8ce163e1.png" width="260" alt="Android-3.0-HRF44-Home-fd93054e8ce163e1"> <img src="images/Android-3.0-HRF44-ContactsGoop-c83553b51cc98d82.png" width="260" alt="Android-3.0-HRF44-ContactsGoop-c83553b51cc98d82">
 
 ---
 
@@ -894,10 +757,7 @@ See here - https://betawiki.net/wiki/Android_3.0_28_April_2010_build
 
 Available here -  https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-06-20</sub>
-
-![1024px-Android-3.0-HRF28-Home-120fd32d1293ac74](images/1024px-Android-3.0-HRF28-Home-120fd32d1293ac74.png)
-![1024px-Android-3.0-HRF28-About-cd328fc4ad5a40cf](images/1024px-Android-3.0-HRF28-About-cd328fc4ad5a40cf.png)
+<img src="images/1024px-Android-3.0-HRF28-Home-120fd32d1293ac74.png" width="260" alt="1024px-Android-3.0-HRF28-Home-120fd32d1293ac74"> <img src="images/1024px-Android-3.0-HRF28-About-cd328fc4ad5a40cf.png" width="260" alt="1024px-Android-3.0-HRF28-About-cd328fc4ad5a40cf">
 
 ---
 
@@ -905,9 +765,7 @@ Available here -  https://github.com/froyocomb/android/tree/froyocomb
 
 Available here: https://github.com/froyocomb/android/tree/cupcake-den
 
-<sub>Posted by mainnn on 2026-06-19</sub>
-
-![Android-1.5-December17-Home-10b9b7467b0ed0f8](images/Android-1.5-December17-Home-10b9b7467b0ed0f8.png)
+<img src="images/Android-1.5-December17-Home-10b9b7467b0ed0f8.png" width="260" alt="Android-1.5-December17-Home-10b9b7467b0ed0f8">
 
 ---
 
@@ -918,9 +776,7 @@ Re?-Done? on 15 June 2026.
 Available here - https://github.com/froyocomb/android/tree/cupcake-den  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/cupcake
 
-<sub>Posted by mainnn on 2026-06-15</sub>
-
-![image-d01e084111761a91](images/image-d01e084111761a91.png)
+<img src="images/image-d01e084111761a91.png" width="260" alt="image-d01e084111761a91">
 
 ---
 
@@ -930,9 +786,7 @@ Re?-Done? on 14 June 2026.
 Available here - https://github.com/froyocomb/android/tree/cupcake-den  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/cupcake
 
-<sub>Posted by mainnn on 2026-06-14</sub>
-
-![Android-1.5-Home-a748a3df7445176f](images/Android-1.5-Home-a748a3df7445176f.png)
+<img src="images/Android-1.5-Home-a748a3df7445176f.png" width="260" alt="Android-1.5-Home-a748a3df7445176f">
 
 ---
 
@@ -943,10 +797,7 @@ Re-done on 14 June 2026.
 Available here - https://github.com/froyocomb/android/tree/i-cant-believe-its-not-android  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/android-1.0
 
-<sub>Posted by mainnn on 2026-06-14</sub>
-
-![Android-1.0-AOSP-Home-2b090b99e6914de1](images/Android-1.0-AOSP-Home-2b090b99e6914de1.png)
-![Android-1.0-AOSP-About-a909185178f63b0e](images/Android-1.0-AOSP-About-a909185178f63b0e.png)
+<img src="images/Android-1.0-AOSP-Home-2b090b99e6914de1.png" width="260" alt="Android-1.0-AOSP-Home-2b090b99e6914de1"> <img src="images/Android-1.0-AOSP-About-a909185178f63b0e.png" width="260" alt="Android-1.0-AOSP-About-a909185178f63b0e">
 
 ---
 
@@ -963,10 +814,7 @@ See here - https://betawiki.net/wiki/Android_2.3_6_May_2010_build
 Available here - https://github.com/froyocomb/android/tree/krakenbread  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/gingerbread
 
-<sub>Posted by mainnn on 2026-06-11</sub>
-
-![Android-2.3-GRF36-Home-877471beb591dff3](images/Android-2.3-GRF36-Home-877471beb591dff3.png)
-![Android-2.3-GRF36-About-82ad804dd8c3c273](images/Android-2.3-GRF36-About-82ad804dd8c3c273.png)
+<img src="images/Android-2.3-GRF36-Home-877471beb591dff3.png" width="260" alt="Android-2.3-GRF36-Home-877471beb591dff3"> <img src="images/Android-2.3-GRF36-About-82ad804dd8c3c273.png" width="260" alt="Android-2.3-GRF36-About-82ad804dd8c3c273">
 
 ---
 
@@ -982,10 +830,7 @@ See here - https://betawiki.net/wiki/Android_2.3_27_April_2010_build
 Available here - https://github.com/froyocomb/android/tree/krakenbread  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/gingerbread
 
-<sub>Posted by mainnn on 2026-06-07</sub>
-
-![Android-2.3-GRF27-Home-f8e63f35c6342abf](images/Android-2.3-GRF27-Home-f8e63f35c6342abf.png)
-![Android-2.3-GRF27-About-202ad29d5cd88ebf](images/Android-2.3-GRF27-About-202ad29d5cd88ebf.png)
+<img src="images/Android-2.3-GRF27-Home-f8e63f35c6342abf.png" width="260" alt="Android-2.3-GRF27-Home-f8e63f35c6342abf"> <img src="images/Android-2.3-GRF27-About-202ad29d5cd88ebf.png" width="260" alt="Android-2.3-GRF27-About-202ad29d5cd88ebf">
 
 ---
 
@@ -997,9 +842,7 @@ Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/honeycomb
 
 Next: HLK......42B?
 
-<sub>Posted by mainnn on 2026-06-05</sub>
-
-![device-2026-06-05-201159-5c4109871e1882aa](images/device-2026-06-05-201159-5c4109871e1882aa.png)
+<img src="images/device-2026-06-05-201159-5c4109871e1882aa.png" width="260" alt="device-2026-06-05-201159-5c4109871e1882aa">
 
 ---
 
@@ -1011,8 +854,6 @@ Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/honeycomb
 
 Next: HTJ85B
 
-<sub>Posted by mainnn on 2026-06-04</sub>
-
 ---
 
 ## `android-3.0_r1.3` (HRI83) - tag reconstruction
@@ -1023,9 +864,7 @@ Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/honeycomb
 
 Next: HMJ37
 
-<sub>Posted by mainnn on 2026-05-27</sub>
-
-![device-2026-05-27-171300-a21299f7a354e9a6](images/device-2026-05-27-171300-a21299f7a354e9a6.png)
+<img src="images/device-2026-05-27-171300-a21299f7a354e9a6.png" width="260" alt="device-2026-05-27-171300-a21299f7a354e9a6">
 
 ---
 
@@ -1037,9 +876,7 @@ Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/honeycomb
 
 Next: HRI83
 
-<sub>Posted by mainnn on 2026-05-26</sub>
-
-![image-a0640e40e72f8c8d](images/image-a0640e40e72f8c8d.png)
+<img src="images/image-a0640e40e72f8c8d.png" width="260" alt="image-a0640e40e72f8c8d">
 
 ---
 
@@ -1052,9 +889,7 @@ Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/honeycomb
 
 Next: HRI66 and HRI83
 
-<sub>Posted by mainnn on 2026-05-25</sub>
-
-![image-17389dd4a5f5d790](images/image-17389dd4a5f5d790.png)
+<img src="images/image-17389dd4a5f5d790.png" width="260" alt="image-17389dd4a5f5d790">
 
 ---
 
@@ -1071,10 +906,7 @@ See here - https://betawiki.net/wiki/Android_4.0_9_March_2011_build
 Available here - https://github.com/froyocomb/android/tree/i-scream-sandwich  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/ics
 
-<sub>Posted by mainnn on 2026-05-18</sub>
-
-![Android-4.0-IRI68-Home-8afdc66792dbe4c5](images/Android-4.0-IRI68-Home-8afdc66792dbe4c5.png)
-![Android-4.0-IRI68-HomeTablet-06b75dba59febed7](images/Android-4.0-IRI68-HomeTablet-06b75dba59febed7.png)
+<img src="images/Android-4.0-IRI68-Home-8afdc66792dbe4c5.png" width="260" alt="Android-4.0-IRI68-Home-8afdc66792dbe4c5"> <img src="images/Android-4.0-IRI68-HomeTablet-06b75dba59febed7.png" width="260" alt="Android-4.0-IRI68-HomeTablet-06b75dba59febed7">
 
 ---
 
@@ -1085,9 +917,7 @@ Download here - https://archive.org/details/emulator-20645.7z
 
 See here - https://betawiki.net/wiki/Android_1.0_build_htc-20645.0.8.0.0
 
-<sub>Posted by mainnn on 2026-04-24</sub>
-
-![91B323CF-0A9D-4018-AB0E-F6C833C08E71-23f794a4cc4f515e](images/91B323CF-0A9D-4018-AB0E-F6C833C08E71-23f794a4cc4f515e.png)
+<img src="images/91B323CF-0A9D-4018-AB0E-F6C833C08E71-23f794a4cc4f515e.png" width="260" alt="91B323CF-0A9D-4018-AB0E-F6C833C08E71-23f794a4cc4f515e">
 
 ---
 
@@ -1100,10 +930,7 @@ Notable features:
 - Camera2 has some changes but none that are visible
 - **A shitton of compile fixes**
 
-<sub>Posted by mainnn on 2026-04-20</sub>
-
-![800px-Android-5.0-AAT35-Home-b15e377a862deffa](images/800px-Android-5.0-AAT35-Home-b15e377a862deffa.png)
-![800px-Android-5.0-AAT35-About-52928734aa52775c](images/800px-Android-5.0-AAT35-About-52928734aa52775c.png)
+<img src="images/800px-Android-5.0-AAT35-Home-b15e377a862deffa.png" width="260" alt="800px-Android-5.0-AAT35-Home-b15e377a862deffa"> <img src="images/800px-Android-5.0-AAT35-About-52928734aa52775c.png" width="260" alt="800px-Android-5.0-AAT35-About-52928734aa52775c">
 
 ---
 
@@ -1116,10 +943,7 @@ See here: https://betawiki.net/wiki/Android_5.0_build_LRX16F
 Notable features:
 - **Nothing**
 
-<sub>Posted by mainnn on 2026-04-15</sub>
-
-![800px-Android-5.0-LRX16F-Home-abe5b95628d59b96](images/800px-Android-5.0-LRX16F-Home-abe5b95628d59b96.png)
-![800px-Android-5.0-LRX16F-About-765472525e12ce66](images/800px-Android-5.0-LRX16F-About-765472525e12ce66.png)
+<img src="images/800px-Android-5.0-LRX16F-Home-abe5b95628d59b96.png" width="260" alt="800px-Android-5.0-LRX16F-Home-abe5b95628d59b96"> <img src="images/800px-Android-5.0-LRX16F-About-765472525e12ce66.png" width="260" alt="800px-Android-5.0-LRX16F-About-765472525e12ce66">
 
 ---
 
@@ -1132,10 +956,7 @@ See here: https://betawiki.net/wiki/Android_5.0_build_LRX05
 Notable features:
 - **Nothing**
 
-<sub>Posted by mainnn on 2026-04-13</sub>
-
-![800px-Android-5.0-LRX05-Home-f179ef0fa078c16c](images/800px-Android-5.0-LRX05-Home-f179ef0fa078c16c.png)
-![1280px-Android-5.0-LRX05-HomeLeanback-16ca02c3c552d55a](images/1280px-Android-5.0-LRX05-HomeLeanback-16ca02c3c552d55a.png)
+<img src="images/800px-Android-5.0-LRX05-Home-f179ef0fa078c16c.png" width="260" alt="800px-Android-5.0-LRX05-Home-f179ef0fa078c16c"> <img src="images/1280px-Android-5.0-LRX05-HomeLeanback-16ca02c3c552d55a.png" width="260" alt="1280px-Android-5.0-LRX05-HomeLeanback-16ca02c3c552d55a">
 
 ---
 
@@ -1149,10 +970,7 @@ Notable features:
 - It is now 5.0
 - Dialpad ripple effect is now smoother
 
-<sub>Posted by mainnn on 2026-04-12</sub>
-
-![800px-Android-5.0-LRW92C-Home-341d0f145c5cb7de](images/800px-Android-5.0-LRW92C-Home-341d0f145c5cb7de.png)
-![1280px-Android-5.0-LRW92C-HomeLeanback-7c595d3dafe00c6d](images/1280px-Android-5.0-LRW92C-HomeLeanback-7c595d3dafe00c6d.png)
+<img src="images/800px-Android-5.0-LRW92C-Home-341d0f145c5cb7de.png" width="260" alt="800px-Android-5.0-LRW92C-Home-341d0f145c5cb7de"> <img src="images/1280px-Android-5.0-LRW92C-HomeLeanback-7c595d3dafe00c6d.png" width="260" alt="1280px-Android-5.0-LRW92C-HomeLeanback-7c595d3dafe00c6d">
 
 ---
 
@@ -1167,10 +985,7 @@ Notable features:
 - Flashlight in QS in Nexus 6
 - TvSettings (weow)
 
-<sub>Posted by mainnn on 2026-04-11</sub>
-
-![800px-Android-5.0-LRW84B-Home-edc31a104e0669fb](images/800px-Android-5.0-LRW84B-Home-edc31a104e0669fb.png)
-![1280px-Android-5.0-LRW84B-HomeLeanback-1cc6a01b2fed8168](images/1280px-Android-5.0-LRW84B-HomeLeanback-1cc6a01b2fed8168.png)
+<img src="images/800px-Android-5.0-LRW84B-Home-edc31a104e0669fb.png" width="260" alt="800px-Android-5.0-LRW84B-Home-edc31a104e0669fb"> <img src="images/1280px-Android-5.0-LRW84B-HomeLeanback-1cc6a01b2fed8168.png" width="260" alt="1280px-Android-5.0-LRW84B-HomeLeanback-1cc6a01b2fed8168">
 
 ---
 
@@ -1187,10 +1002,7 @@ Notable features:
 - Downloads icon is now Material
 - TvQuickSettings!
 
-<sub>Posted by mainnn on 2026-04-09</sub>
-
-![800px-Android-5.0-LRW78C-Home-28037db22ff68a24](images/800px-Android-5.0-LRW78C-Home-28037db22ff68a24.png)
-![1280px-Android-5.0-LRW78C-HomeLeanback-75ceb2ddf7cad736](images/1280px-Android-5.0-LRW78C-HomeLeanback-75ceb2ddf7cad736.png)
+<img src="images/800px-Android-5.0-LRW78C-Home-28037db22ff68a24.png" width="260" alt="800px-Android-5.0-LRW78C-Home-28037db22ff68a24"> <img src="images/1280px-Android-5.0-LRW78C-HomeLeanback-75ceb2ddf7cad736.png" width="260" alt="1280px-Android-5.0-LRW78C-HomeLeanback-75ceb2ddf7cad736">
 
 ---
 
@@ -1205,10 +1017,7 @@ Notable features:
 - We got that GOOGEL text back on QSB
 - RIP SIM cards applet
 
-<sub>Posted by mainnn on 2026-04-07</sub>
-
-![800px-Android-5.0-LRW71C-HomeNexus9-beda219d49c3d261](images/800px-Android-5.0-LRW71C-HomeNexus9-beda219d49c3d261.png)
-![800px-Android-5.0-LRW71C-AboutNexus9-3d48dafc2f181eb0](images/800px-Android-5.0-LRW71C-AboutNexus9-3d48dafc2f181eb0.png)
+<img src="images/800px-Android-5.0-LRW71C-HomeNexus9-beda219d49c3d261.png" width="260" alt="800px-Android-5.0-LRW71C-HomeNexus9-beda219d49c3d261"> <img src="images/800px-Android-5.0-LRW71C-AboutNexus9-3d48dafc2f181eb0.png" width="260" alt="800px-Android-5.0-LRW71C-AboutNexus9-3d48dafc2f181eb0">
 
 ---
 
@@ -1226,10 +1035,7 @@ Notable features:
 - WebView Library is now named Android System Webview
 - GoogleKeymaster library introduced
 
-<sub>Posted by mainnn on 2026-04-06</sub>
-
-![Android-5.0-LRW65D-HomeNexusPlayer-2eb39022407096aa](images/Android-5.0-LRW65D-HomeNexusPlayer-2eb39022407096aa.png)
-![Android-5.0-LRW65D-AboutNexusPlayer-9af52e50e3b360e6](images/Android-5.0-LRW65D-AboutNexusPlayer-9af52e50e3b360e6.png)
+<img src="images/Android-5.0-LRW65D-HomeNexusPlayer-2eb39022407096aa.png" width="260" alt="Android-5.0-LRW65D-HomeNexusPlayer-2eb39022407096aa"> <img src="images/Android-5.0-LRW65D-AboutNexusPlayer-9af52e50e3b360e6.png" width="260" alt="Android-5.0-LRW65D-AboutNexusPlayer-9af52e50e3b360e6">
 
 ---
 
@@ -1239,20 +1045,14 @@ Notable features:
 Available here: https://github.com/froyocomb/android/tree/thou-shalt-take-the-L  
 See here: https://betawiki.net/wiki/Android_5.0_build_LRW58O
 
-<sub>Posted by mainnn on 2026-04-05</sub>
-
-![Android-5.0-LRW58O-Home-ef88e52c2ee45ae0](images/Android-5.0-LRW58O-Home-ef88e52c2ee45ae0.png)
+<img src="images/Android-5.0-LRW58O-Home-ef88e52c2ee45ae0.png" width="260" alt="Android-5.0-LRW58O-Home-ef88e52c2ee45ae0">
 
 ---
 
 ## Android 1.0 15 January 2008 build
 Wait what this is not a reeconstruction main what are you doing
 
-<sub>Posted by mainnn on 2026-04-03</sub>
-
-![device-2026-04-03-222158-53db6910f3e5888a](images/device-2026-04-03-222158-53db6910f3e5888a.png)
-![device-2026-04-03-222214-b5903f702f12ded6](images/device-2026-04-03-222214-b5903f702f12ded6.png)
-![74FF38E4-76D2-4E45-BEA8-4B51EF458441-96ed45f86fc1e4ff](images/74FF38E4-76D2-4E45-BEA8-4B51EF458441-96ed45f86fc1e4ff.png)
+<img src="images/device-2026-04-03-222158-53db6910f3e5888a.png" width="260" alt="device-2026-04-03-222158-53db6910f3e5888a"> <img src="images/device-2026-04-03-222214-b5903f702f12ded6.png" width="260" alt="device-2026-04-03-222214-b5903f702f12ded6"> <img src="images/74FF38E4-76D2-4E45-BEA8-4B51EF458441-96ed45f86fc1e4ff.png" width="260" alt="74FF38E4-76D2-4E45-BEA8-4B51EF458441-96ed45f86fc1e4ff">
 
 ---
 
@@ -1274,10 +1074,7 @@ Additionally it is the last with:
 - Water, Black Hole, Grass and Nexus Live Wallpapers
 - API 20
 
-<sub>Posted by mainnn on 2026-04-03</sub>
-
-![800px-Android-5.0-LRW52G-Home-aa7a4ccbf2631e30](images/800px-Android-5.0-LRW52G-Home-aa7a4ccbf2631e30.png)
-![800px-Android-5.0-LRW52G-About-43541d0086b40941](images/800px-Android-5.0-LRW52G-About-43541d0086b40941.png)
+<img src="images/800px-Android-5.0-LRW52G-Home-aa7a4ccbf2631e30.png" width="260" alt="800px-Android-5.0-LRW52G-Home-aa7a4ccbf2631e30"> <img src="images/800px-Android-5.0-LRW52G-About-43541d0086b40941.png" width="260" alt="800px-Android-5.0-LRW52G-About-43541d0086b40941">
 
 ---
 
@@ -1286,10 +1083,7 @@ Additionally it is the last with:
 Available here: https://github.com/froyocomb/android/tree/thou-shalt-take-the-L  
 See here: https://betawiki.net/wiki/Android_5.0_build_LRW45K
 
-<sub>Posted by mainnn on 2026-04-02</sub>
-
-![800px-Android-5.0-LRW45K-Home-5df9da64b609f2e7](images/800px-Android-5.0-LRW45K-Home-5df9da64b609f2e7.png)
-![800px-Android-5.0-LRW45K-About-ba8b3480997e384e](images/800px-Android-5.0-LRW45K-About-ba8b3480997e384e.png)
+<img src="images/800px-Android-5.0-LRW45K-Home-5df9da64b609f2e7.png" width="260" alt="800px-Android-5.0-LRW45K-Home-5df9da64b609f2e7"> <img src="images/800px-Android-5.0-LRW45K-About-ba8b3480997e384e.png" width="260" alt="800px-Android-5.0-LRW45K-About-ba8b3480997e384e">
 
 ---
 
@@ -1305,10 +1099,7 @@ Notable features:
 - New locking animation
 - Light-blue icons and dialogs are now the RTM teal color
 
-<sub>Posted by mainnn on 2026-04-02</sub>
-
-![800px-Android-5.0-LRW40-HomeNexus6-bf6f7d83dec9efee](images/800px-Android-5.0-LRW40-HomeNexus6-bf6f7d83dec9efee.png)
-![800px-Android-5.0-LRW40-AboutNexus6-d7cedbac545d2537](images/800px-Android-5.0-LRW40-AboutNexus6-d7cedbac545d2537.png)
+<img src="images/800px-Android-5.0-LRW40-HomeNexus6-bf6f7d83dec9efee.png" width="260" alt="800px-Android-5.0-LRW40-HomeNexus6-bf6f7d83dec9efee"> <img src="images/800px-Android-5.0-LRW40-AboutNexus6-d7cedbac545d2537.png" width="260" alt="800px-Android-5.0-LRW40-AboutNexus6-d7cedbac545d2537">
 
 ---
 
@@ -1322,10 +1113,7 @@ Notable features:
 - Dark blue Phone app
 - New SIM cards applet in Settings
 
-<sub>Posted by mainnn on 2026-03-30</sub>
-
-![800px-Android-5.0-LRW29H-HomeNexus6-4f1612fd766d858c](images/800px-Android-5.0-LRW29H-HomeNexus6-4f1612fd766d858c.png)
-![800px-Android-5.0-LRW29H-AboutNexus6-a4d236252bc7add0](images/800px-Android-5.0-LRW29H-AboutNexus6-a4d236252bc7add0.png)
+<img src="images/800px-Android-5.0-LRW29H-HomeNexus6-4f1612fd766d858c.png" width="260" alt="800px-Android-5.0-LRW29H-HomeNexus6-4f1612fd766d858c"> <img src="images/800px-Android-5.0-LRW29H-AboutNexus6-a4d236252bc7add0.png" width="260" alt="800px-Android-5.0-LRW29H-AboutNexus6-a4d236252bc7add0">
 
 ---
 
@@ -1345,10 +1133,7 @@ Notable features:
 - The top header of the Phone app is now dark blue instead of light blue which makes it look really odd
 - MediaProvider is now Material Design-themed instead of Holo-themed.
 
-<sub>Posted by mainnn on 2026-03-29</sub>
-
-![800px-Android-5.0-LRW22B-HomeNexus6-ec64a632f9e23f2a](images/800px-Android-5.0-LRW22B-HomeNexus6-ec64a632f9e23f2a.png)
-![800px-Android-5.0-LRW22B-AboutNexus6-043f3e8dc5182d73](images/800px-Android-5.0-LRW22B-AboutNexus6-043f3e8dc5182d73.png)
+<img src="images/800px-Android-5.0-LRW22B-HomeNexus6-ec64a632f9e23f2a.png" width="260" alt="800px-Android-5.0-LRW22B-HomeNexus6-ec64a632f9e23f2a"> <img src="images/800px-Android-5.0-LRW22B-AboutNexus6-043f3e8dc5182d73.png" width="260" alt="800px-Android-5.0-LRW22B-AboutNexus6-043f3e8dc5182d73">
 
 ---
 
@@ -1366,10 +1151,7 @@ Notable features:
 - Notifications is now named "Sound & Notification" in Settings and the white background used in applets is now again brighter
 And more!
 
-<sub>Posted by mainnn on 2026-03-28</sub>
-
-![800px-Android-5.0-LDW13B-HomeNexus6-2c54d9dcbe51b097](images/800px-Android-5.0-LDW13B-HomeNexus6-2c54d9dcbe51b097.png)
-![800px-Android-5.0-LDW13B-AboutNexus6-cbf514224aac4abd](images/800px-Android-5.0-LDW13B-AboutNexus6-cbf514224aac4abd.png)
+<img src="images/800px-Android-5.0-LDW13B-HomeNexus6-2c54d9dcbe51b097.png" width="260" alt="800px-Android-5.0-LDW13B-HomeNexus6-2c54d9dcbe51b097"> <img src="images/800px-Android-5.0-LDW13B-AboutNexus6-cbf514224aac4abd.png" width="260" alt="800px-Android-5.0-LDW13B-AboutNexus6-cbf514224aac4abd">
 
 ---
 
@@ -1384,10 +1166,7 @@ Notable features:
 - New method of sideloading packages
 - It crashes when you put the device running it to sleep (that's a feature right?)
 
-<sub>Posted by mainnn on 2026-03-27</sub>
-
-![device-2026-03-27-211956-a76252df259f1cd0](images/device-2026-03-27-211956-a76252df259f1cd0.png)
-![device-2026-03-27-211944-c3ebff8850ed0d4f](images/device-2026-03-27-211944-c3ebff8850ed0d4f.png)
+<img src="images/device-2026-03-27-211956-a76252df259f1cd0.png" width="260" alt="device-2026-03-27-211956-a76252df259f1cd0"> <img src="images/device-2026-03-27-211944-c3ebff8850ed0d4f.png" width="260" alt="device-2026-03-27-211944-c3ebff8850ed0d4f">
 
 ---
 
@@ -1401,10 +1180,7 @@ Notable features:
 - Nexus 6 now has software thermal throttling
 - Darker settings background
 
-<sub>Posted by mainnn on 2026-03-24</sub>
-
-![800px-Android-5.0-LRW02-HomeNexus6-19342012df6762e7](images/800px-Android-5.0-LRW02-HomeNexus6-19342012df6762e7.png)
-![800px-Android-5.0-LRW02-AboutNexus6-62cd16d9789a7364](images/800px-Android-5.0-LRW02-AboutNexus6-62cd16d9789a7364.png)
+<img src="images/800px-Android-5.0-LRW02-HomeNexus6-19342012df6762e7.png" width="260" alt="800px-Android-5.0-LRW02-HomeNexus6-19342012df6762e7"> <img src="images/800px-Android-5.0-LRW02-AboutNexus6-62cd16d9789a7364.png" width="260" alt="800px-Android-5.0-LRW02-AboutNexus6-62cd16d9789a7364">
 
 ---
 
@@ -1421,10 +1197,7 @@ Notable features:
 - New    L O C K         N O W         option in Power menu
 - Accounts applet in Settings now has an icon
 
-<sub>Posted by mainnn on 2026-03-22</sub>
-
-![800px-Android-5.0-LRV88-HomeNexus6-9c65acd4a6d4b63a](images/800px-Android-5.0-LRV88-HomeNexus6-9c65acd4a6d4b63a.png)
-![800px-Android-5.0-LRV88-AboutNexus6-7fdaa9e5478e1161](images/800px-Android-5.0-LRV88-AboutNexus6-7fdaa9e5478e1161.png)
+<img src="images/800px-Android-5.0-LRV88-HomeNexus6-9c65acd4a6d4b63a.png" width="260" alt="800px-Android-5.0-LRV88-HomeNexus6-9c65acd4a6d4b63a"> <img src="images/800px-Android-5.0-LRV88-AboutNexus6-7fdaa9e5478e1161.png" width="260" alt="800px-Android-5.0-LRV88-AboutNexus6-7fdaa9e5478e1161">
 
 ---
 
@@ -1442,10 +1215,7 @@ Notable features:
 - Taller search box
 - Nexus 5 tree now uses its own camera tree
 
-<sub>Posted by mainnn on 2026-03-20</sub>
-
-![800px-Android-5.0-LRV81-HomeNexus6-c3db301260a8ecb4](images/800px-Android-5.0-LRV81-HomeNexus6-c3db301260a8ecb4.png)
-![800px-Android-5.0-LRV81-AboutNexus6-19167e3a303d8803](images/800px-Android-5.0-LRV81-AboutNexus6-19167e3a303d8803.png)
+<img src="images/800px-Android-5.0-LRV81-HomeNexus6-c3db301260a8ecb4.png" width="260" alt="800px-Android-5.0-LRV81-HomeNexus6-c3db301260a8ecb4"> <img src="images/800px-Android-5.0-LRV81-AboutNexus6-19167e3a303d8803.png" width="260" alt="800px-Android-5.0-LRV81-AboutNexus6-19167e3a303d8803">
 
 ---
 
@@ -1461,10 +1231,7 @@ Notable features:
 - We got that Nexus 6
 - I didn't see any other than that, nothing interesting in AOSP either
 
-<sub>Posted by mainnn on 2026-03-18</sub>
-
-![device-2026-03-18-181343-c70eb6579ce3c48f](images/device-2026-03-18-181343-c70eb6579ce3c48f.png)
-![device-2026-03-18-181358-3b922d96de331362](images/device-2026-03-18-181358-3b922d96de331362.png)
+<img src="images/device-2026-03-18-181343-c70eb6579ce3c48f.png" width="260" alt="device-2026-03-18-181343-c70eb6579ce3c48f"> <img src="images/device-2026-03-18-181358-3b922d96de331362.png" width="260" alt="device-2026-03-18-181358-3b922d96de331362">
 
 ---
 
@@ -1479,11 +1246,7 @@ Notable features:
 - Contacts app material design redesign
 - Keyboard is now Material Design-themed again after being fucked up in LRV72
 
-<sub>Posted by mainnn on 2026-03-16</sub>
-
-![800px-Android-5.0-LRV73-Home-cf71eef9a5587812](images/800px-Android-5.0-LRV73-Home-cf71eef9a5587812.png)
-![800px-Android-5.0-LRV73-About-aeb62ef35cb2a7a1](images/800px-Android-5.0-LRV73-About-aeb62ef35cb2a7a1.png)
-![IMG_0914-6a56e5c0017a1016](images/IMG_0914-6a56e5c0017a1016.jpg)
+<img src="images/800px-Android-5.0-LRV73-Home-cf71eef9a5587812.png" width="260" alt="800px-Android-5.0-LRV73-Home-cf71eef9a5587812"> <img src="images/800px-Android-5.0-LRV73-About-aeb62ef35cb2a7a1.png" width="260" alt="800px-Android-5.0-LRV73-About-aeb62ef35cb2a7a1"> <img src="images/IMG_0914-6a56e5c0017a1016.jpg" width="260" alt="IMG_0914-6a56e5c0017a1016">
 
 ---
 
@@ -1501,10 +1264,7 @@ Run this build on the emulator included on my "Android 3.0 Emulator" archive.org
 
 Enjoy!
 
-<sub>Posted by mainnn on 2026-03-15</sub>
-
-![device-2026-03-15-165044-66eda1300a5aac24](images/device-2026-03-15-165044-66eda1300a5aac24.png)
-![device-2026-03-15-165054-916ab049a205314c](images/device-2026-03-15-165054-916ab049a205314c.png)
+<img src="images/device-2026-03-15-165044-66eda1300a5aac24.png" width="260" alt="device-2026-03-15-165044-66eda1300a5aac24"> <img src="images/device-2026-03-15-165054-916ab049a205314c.png" width="260" alt="device-2026-03-15-165054-916ab049a205314c">
 
 ---
 
@@ -1523,10 +1283,7 @@ See here - https://betawiki.net/wiki/Android_4.1_build_IRL74
 Available here - https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean  
 Get blobs here (i've fixed the apps and now they properly copy over) - https://github.com/froyocomb/proprietary_vendor/tree/jellybean
 
-<sub>Posted by mainnn on 2026-03-13</sub>
-
-![Android-4.1-IRL74-Home-a058d8d843931e51](images/Android-4.1-IRL74-Home-a058d8d843931e51.png)
-![1024px-Android-4.1-IRL74-HomeTablet-8f853745bb3a9038](images/1024px-Android-4.1-IRL74-HomeTablet-8f853745bb3a9038.png)
+<img src="images/Android-4.1-IRL74-Home-a058d8d843931e51.png" width="260" alt="Android-4.1-IRL74-Home-a058d8d843931e51"> <img src="images/1024px-Android-4.1-IRL74-HomeTablet-8f853745bb3a9038.png" width="260" alt="1024px-Android-4.1-IRL74-HomeTablet-8f853745bb3a9038">
 
 ---
 
@@ -1539,10 +1296,7 @@ See here -https://betawiki.net/wiki/Android_4.1_build_IRL68
 Available here - https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/jellybean
 
-<sub>Posted by mainnn on 2026-03-12</sub>
-
-![Android-4.1-IRL68-Home-5307ae88417fe99c](images/Android-4.1-IRL68-Home-5307ae88417fe99c.png)
-![1024px-Android-4.1-IRL68-HomeTablet-e7dbe8207944d698](images/1024px-Android-4.1-IRL68-HomeTablet-e7dbe8207944d698.png)
+<img src="images/Android-4.1-IRL68-Home-5307ae88417fe99c.png" width="260" alt="Android-4.1-IRL68-Home-5307ae88417fe99c"> <img src="images/1024px-Android-4.1-IRL68-HomeTablet-e7dbe8207944d698.png" width="260" alt="1024px-Android-4.1-IRL68-HomeTablet-e7dbe8207944d698">
 
 ---
 
@@ -1557,9 +1311,7 @@ Notable features:
 
 See here too - https://betawiki.net/wiki/Android_5.0_12_June_2014_build
 
-<sub>Posted by mainnn on 2026-03-10</sub>
-
-![800px-Android-5.0-LRV72-Home-06085b67dea0868c](images/800px-Android-5.0-LRV72-Home-06085b67dea0868c.png)
+<img src="images/800px-Android-5.0-LRV72-Home-06085b67dea0868c.png" width="260" alt="800px-Android-5.0-LRV72-Home-06085b67dea0868c">
 
 ---
 
@@ -1574,10 +1326,7 @@ Notable features:
 
 See here - https://betawiki.net/wiki/Android_5.0_11_June_2014_build
 
-<sub>Posted by mainnn on 2026-03-08</sub>
-
-![800px-Android-5.0-LRV71-Home-b9b4338ce665570e](images/800px-Android-5.0-LRV71-Home-b9b4338ce665570e.png)
-![800px-Android-5.0-LRV71-About-9f67589bcabc2610](images/800px-Android-5.0-LRV71-About-9f67589bcabc2610.png)
+<img src="images/800px-Android-5.0-LRV71-Home-b9b4338ce665570e.png" width="260" alt="800px-Android-5.0-LRV71-Home-b9b4338ce665570e"> <img src="images/800px-Android-5.0-LRV71-About-9f67589bcabc2610.png" width="260" alt="800px-Android-5.0-LRV71-About-9f67589bcabc2610">
 
 ---
 
@@ -1590,10 +1339,7 @@ Notable features:
 
 See here - https://betawiki.net/wiki/Android_5.0_10_June_2014_build
 
-<sub>Posted by mainnn on 2026-03-07</sub>
-
-![800px-Android-5.0-LRV70-Home-1db74a5fd8a1eca5](images/800px-Android-5.0-LRV70-Home-1db74a5fd8a1eca5.png)
-![800px-Android-5.0-LRV70-About-3fd8fdf22f90bd02](images/800px-Android-5.0-LRV70-About-3fd8fdf22f90bd02.png)
+<img src="images/800px-Android-5.0-LRV70-Home-1db74a5fd8a1eca5.png" width="260" alt="800px-Android-5.0-LRV70-Home-1db74a5fd8a1eca5"> <img src="images/800px-Android-5.0-LRV70-About-3fd8fdf22f90bd02.png" width="260" alt="800px-Android-5.0-LRV70-About-3fd8fdf22f90bd02">
 
 ---
 
@@ -1611,10 +1357,7 @@ Notable features:
 
 See here - https://betawiki.net/wiki/Android_5.0_9_June_2014_build
 
-<sub>Posted by mainnn on 2026-03-04</sub>
-
-![800px-Android-5.0-LRV69-Home-e7b2daf2f219a52f](images/800px-Android-5.0-LRV69-Home-e7b2daf2f219a52f.png)
-![800px-Android-5.0-LRV69-About-6a63314c0599edb1](images/800px-Android-5.0-LRV69-About-6a63314c0599edb1.png)
+<img src="images/800px-Android-5.0-LRV69-Home-e7b2daf2f219a52f.png" width="260" alt="800px-Android-5.0-LRV69-Home-e7b2daf2f219a52f"> <img src="images/800px-Android-5.0-LRV69-About-6a63314c0599edb1.png" width="260" alt="800px-Android-5.0-LRV69-About-6a63314c0599edb1">
 
 ---
 
@@ -1628,10 +1371,7 @@ See here - https://betawiki.net/wiki/Android_3.0_build_HRF72
 
 Available here - https://github.com/froyocomb/android/tree/froyocomb
 
-<sub>Posted by mainnn on 2026-03-01</sub>
-
-![1280px-Android-3.0-HRF72-HomeXoom-6b473082cea316fb](images/1280px-Android-3.0-HRF72-HomeXoom-6b473082cea316fb.png)
-![1280px-Android-3.0-HRF72-AboutXoom-9bfe2688a28eaa77](images/1280px-Android-3.0-HRF72-AboutXoom-9bfe2688a28eaa77.png)
+<img src="images/1280px-Android-3.0-HRF72-HomeXoom-6b473082cea316fb.png" width="260" alt="1280px-Android-3.0-HRF72-HomeXoom-6b473082cea316fb"> <img src="images/1280px-Android-3.0-HRF72-AboutXoom-9bfe2688a28eaa77.png" width="260" alt="1280px-Android-3.0-HRF72-AboutXoom-9bfe2688a28eaa77">
 
 ---
 
@@ -1645,10 +1385,7 @@ See here - https://betawiki.net/wiki/Android_4.0_14_April_2011_build
 Available here - https://github.com/froyocomb/android/tree/i-scream-sandwich  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/ics
 
-<sub>Posted by mainnn on 2026-02-27</sub>
-
-![Android-4.0-IRJ14-Home-d0c91a05d2b2e903](images/Android-4.0-IRJ14-Home-d0c91a05d2b2e903.png)
-![Android-4.0-IRJ14-HomeTablet-68eb2c3fe55c3c15](images/Android-4.0-IRJ14-HomeTablet-68eb2c3fe55c3c15.png)
+<img src="images/Android-4.0-IRJ14-Home-d0c91a05d2b2e903.png" width="260" alt="Android-4.0-IRJ14-Home-d0c91a05d2b2e903"> <img src="images/Android-4.0-IRJ14-HomeTablet-68eb2c3fe55c3c15.png" width="260" alt="Android-4.0-IRJ14-HomeTablet-68eb2c3fe55c3c15">
 
 ---
 
@@ -1664,10 +1401,7 @@ See here - https://betawiki.net/wiki/Android_4.0_6_April_2011_build
 Available here - https://github.com/froyocomb/android/tree/i-scream-sandwich  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/ics
 
-<sub>Posted by mainnn on 2026-02-26</sub>
-
-![Android-4.0-IRJ06-Home-dbbe6b02181933f3](images/Android-4.0-IRJ06-Home-dbbe6b02181933f3.png)
-![Android-4.0-IRJ06-HomeTablet-1095cca0ca144a91](images/Android-4.0-IRJ06-HomeTablet-1095cca0ca144a91.png)
+<img src="images/Android-4.0-IRJ06-Home-dbbe6b02181933f3.png" width="260" alt="Android-4.0-IRJ06-Home-dbbe6b02181933f3"> <img src="images/Android-4.0-IRJ06-HomeTablet-1095cca0ca144a91.png" width="260" alt="Android-4.0-IRJ06-HomeTablet-1095cca0ca144a91">
 
 ---
 
@@ -1679,10 +1413,7 @@ Notable features:
 
 See here - https://betawiki.net/wiki/Android_2.3_build_GRH35
 
-<sub>Posted by mainnn on 2026-02-25</sub>
-
-![Android-2.3-GRH35-HomeGoogle-9cd7a5a14e3e60d9](images/Android-2.3-GRH35-HomeGoogle-9cd7a5a14e3e60d9.png)
-![Android-2.3-GRH35-AboutGoogle-0bc945ab30ee668e](images/Android-2.3-GRH35-AboutGoogle-0bc945ab30ee668e.png)
+<img src="images/Android-2.3-GRH35-HomeGoogle-9cd7a5a14e3e60d9.png" width="260" alt="Android-2.3-GRH35-HomeGoogle-9cd7a5a14e3e60d9"> <img src="images/Android-2.3-GRH35-AboutGoogle-0bc945ab30ee668e.png" width="260" alt="Android-2.3-GRH35-AboutGoogle-0bc945ab30ee668e">
 
 ---
 
@@ -1699,10 +1430,7 @@ See here - https://betawiki.net/wiki/Android_4.0_24_March_2011_build
 Available here - https://github.com/froyocomb/android/tree/i-scream-sandwich  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/ics
 
-<sub>Posted by mainnn on 2026-02-24</sub>
-
-![Android-4.0-IRI83-Home-07374f39051d8913](images/Android-4.0-IRI83-Home-07374f39051d8913.png)
-![Android-4.0-IRI83-HomeTablet-944f12f14519e89c](images/Android-4.0-IRI83-HomeTablet-944f12f14519e89c.png)
+<img src="images/Android-4.0-IRI83-Home-07374f39051d8913.png" width="260" alt="Android-4.0-IRI83-Home-07374f39051d8913"> <img src="images/Android-4.0-IRI83-HomeTablet-944f12f14519e89c.png" width="260" alt="Android-4.0-IRI83-HomeTablet-944f12f14519e89c">
 
 ---
 
@@ -1719,10 +1447,7 @@ See here - https://betawiki.net/wiki/Android_4.0_build_IRJ67
 Available here - https://github.com/froyocomb/android/tree/i-scream-sandwich  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/ics
 
-<sub>Posted by mainnn on 2026-02-23</sub>
-
-![Android-4.0-IRJ67-Home-9360d53a40cb0400](images/Android-4.0-IRJ67-Home-9360d53a40cb0400.png)
-![Android-4.0-IRJ67-HomeTablet-363887d9a8ecfa2e](images/Android-4.0-IRJ67-HomeTablet-363887d9a8ecfa2e.png)
+<img src="images/Android-4.0-IRJ67-Home-9360d53a40cb0400.png" width="260" alt="Android-4.0-IRJ67-Home-9360d53a40cb0400"> <img src="images/Android-4.0-IRJ67-HomeTablet-363887d9a8ecfa2e.png" width="260" alt="Android-4.0-IRJ67-HomeTablet-363887d9a8ecfa2e">
 
 ---
 
@@ -1737,10 +1462,7 @@ See here - https://betawiki.net/wiki/Android_4.0_build_IRJ60
 Available here - https://github.com/froyocomb/android/tree/i-scream-sandwich  
 Get blobs here - https://github.com/froyocomb/proprietary_vendor/tree/ics
 
-<sub>Posted by mainnn on 2026-02-23</sub>
-
-![Android-4.0-IRJ60-Home-0ad3fa8114b49bb7](images/Android-4.0-IRJ60-Home-0ad3fa8114b49bb7.png)
-![Android-4.0-IRJ60-HomeTablet-e0cc435bab53698d](images/Android-4.0-IRJ60-HomeTablet-e0cc435bab53698d.png)
+<img src="images/Android-4.0-IRJ60-Home-0ad3fa8114b49bb7.png" width="260" alt="Android-4.0-IRJ60-Home-0ad3fa8114b49bb7"> <img src="images/Android-4.0-IRJ60-HomeTablet-e0cc435bab53698d.png" width="260" alt="Android-4.0-IRJ60-HomeTablet-e0cc435bab53698d">
 
 ---
 
@@ -1753,10 +1475,7 @@ Notable features:
 
 See here - https://betawiki.net/wiki/Android_5.0_3_June_2014_build
 
-<sub>Posted by mainnn on 2026-02-21</sub>
-
-![800px-Android-5.0-LRV63-Home-3ef76fd46d9f7dac](images/800px-Android-5.0-LRV63-Home-3ef76fd46d9f7dac.png)
-![800px-Android-5.0-LRV63-About-1e783309af8f07d7](images/800px-Android-5.0-LRV63-About-1e783309af8f07d7.png)
+<img src="images/800px-Android-5.0-LRV63-Home-3ef76fd46d9f7dac.png" width="260" alt="800px-Android-5.0-LRV63-Home-3ef76fd46d9f7dac"> <img src="images/800px-Android-5.0-LRV63-About-1e783309af8f07d7.png" width="260" alt="800px-Android-5.0-LRV63-About-1e783309af8f07d7">
 
 ---
 
@@ -1770,10 +1489,7 @@ Notable features:
 
 See more here - https://betawiki.net/wiki/Android_5.0_28_May_2014_build
 
-<sub>Posted by mainnn on 2026-02-20</sub>
-
-![800px-Android-5.0-LRV58-Home-8591b7469892466f](images/800px-Android-5.0-LRV58-Home-8591b7469892466f.png)
-![800px-Android-5.0-LRV58-About-9086a694ff86644c](images/800px-Android-5.0-LRV58-About-9086a694ff86644c.png)
+<img src="images/800px-Android-5.0-LRV58-Home-8591b7469892466f.png" width="260" alt="800px-Android-5.0-LRV58-Home-8591b7469892466f"> <img src="images/800px-Android-5.0-LRV58-About-9086a694ff86644c.png" width="260" alt="800px-Android-5.0-LRV58-About-9086a694ff86644c">
 
 ---
 
@@ -1786,10 +1502,7 @@ Notable features:
 
 See more here - https://betawiki.net/wiki/Android_5.0_build_LRW58O
 
-<sub>Posted by dxman1a on 2026-02-20</sub>
-
-![Android-5.0-LRW58O-Home-f6ed9afafa1f76bb](images/Android-5.0-LRW58O-Home-f6ed9afafa1f76bb.png)
-![Android-5.0-LRW58O-About-d5bcde26d9695660](images/Android-5.0-LRW58O-About-d5bcde26d9695660.png)
+<img src="images/Android-5.0-LRW58O-Home-f6ed9afafa1f76bb.png" width="260" alt="Android-5.0-LRW58O-Home-f6ed9afafa1f76bb"> <img src="images/Android-5.0-LRW58O-About-d5bcde26d9695660.png" width="260" alt="Android-5.0-LRW58O-About-d5bcde26d9695660">
 
 ---
 
@@ -1809,10 +1522,7 @@ Notable features:
 
 See more here - https://betawiki.net/wiki/Android_5.0_build_AAV52B
 
-<sub>Posted by mainnn on 2026-02-19</sub>
-
-![800px-Android-5.0-AAV52B-Home-fdb6757c7b87a10f](images/800px-Android-5.0-AAV52B-Home-fdb6757c7b87a10f.png)
-![800px-Android-5.0-AAV52B-About-acaeed10b0053c8e](images/800px-Android-5.0-AAV52B-About-acaeed10b0053c8e.png)
+<img src="images/800px-Android-5.0-AAV52B-Home-fdb6757c7b87a10f.png" width="260" alt="800px-Android-5.0-AAV52B-Home-fdb6757c7b87a10f"> <img src="images/800px-Android-5.0-AAV52B-About-acaeed10b0053c8e.png" width="260" alt="800px-Android-5.0-AAV52B-About-acaeed10b0053c8e">
 
 ---
 
@@ -1830,10 +1540,7 @@ Notable features:
 
 See more here - https://betawiki.net/wiki/Android_5.0_build_AAV45F
 
-<sub>Posted by mainnn on 2026-02-18</sub>
-
-![800px-Android-5.0-AAV45F-Home-83b1c24c0f99a4bb](images/800px-Android-5.0-AAV45F-Home-83b1c24c0f99a4bb.png)
-![800px-Android-5.0-AAV45F-About-272615d3657aa5b6](images/800px-Android-5.0-AAV45F-About-272615d3657aa5b6.png)
+<img src="images/800px-Android-5.0-AAV45F-Home-83b1c24c0f99a4bb.png" width="260" alt="800px-Android-5.0-AAV45F-Home-83b1c24c0f99a4bb"> <img src="images/800px-Android-5.0-AAV45F-About-272615d3657aa5b6.png" width="260" alt="800px-Android-5.0-AAV45F-About-272615d3657aa5b6">
 
 ---
 
@@ -1848,6 +1555,4 @@ Notable features:
 
 See more here - https://betawiki.net/wiki/Android_5.0_build_AAV38C
 
-<sub>Posted by mainnn on 2026-02-17</sub>
-
-![800px-Android-5.0-AAV38C-Home-e68bc0aefaf01389](images/800px-Android-5.0-AAV38C-Home-e68bc0aefaf01389.png)
+<img src="images/800px-Android-5.0-AAV38C-Home-e68bc0aefaf01389.png" width="260" alt="800px-Android-5.0-AAV38C-Home-e68bc0aefaf01389">

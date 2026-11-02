@@ -1,3 +1,5 @@
+# RECENT BUILDS
+
 ## Android 4.1 build IRL40
 Reconstructed on 22 October 2026.
 
@@ -9,9 +11,7 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/IRL40.xml
 
-<sub>Posted by isaasoobarr on 2026-10-22</sub>
-
-![screenshot-7a72b0f30a884964](./images/screenshot-7a72b0f30a884964.png)
+<img src="../images/screenshot-7a72b0f30a884964.png" width="260" alt="screenshot-7a72b0f30a884964">
 
 ---
 
@@ -34,8 +34,18 @@ Notable features:
 
 The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/IRL34.xml
 
-<sub>Posted by isaasoobarr on 2026-10-21</sub>
+<img src="../images/screenshot-2957feb1a45f7244.png" width="260" alt="screenshot-2957feb1a45f7244">
 
-![screenshot-2957feb1a45f7244](./images/screenshot-2957feb1a45f7244.png)
+---
 
-[See older announcements →](CHANGELOG.md)
+## Android 4.1 build IRL27
+Reconstructed on 20 October 2026.
+
+This is the first build tagged after the first Android Ice Cream Sandwich Factory ROM 2 build and is considered the first build of Android Jelly Bean.
+
+The manifest is available for compile here -  https://github.com/froyocomb/android/tree/jolly-bean-jolly-bean/4.1/IRL27.xml
+
+<img src="../images/screenshot-f94c83f0800d2d7a.png" width="260" alt="screenshot-f94c83f0800d2d7a">
+
+
+[See more →](../CHANGELOG.md)
